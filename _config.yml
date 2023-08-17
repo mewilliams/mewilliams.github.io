@@ -62,18 +62,24 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
+    - label: "Facultad de Ciencias Biológicas"
       icon: "fas fa-fw fa-link"
       url: "https://biologia.uc.cl/megan-williams/"
- #   - label: "Twitter"
- #     icon: "fab fa-fw fa-twitter-square"
- #     url: "https://twitter.com/"
+ #    - label: "Facultad de Ciencias Biológicas"
+ #      icon: "fas fa-fw fa-link"
+ #      url: "https://biologia.uc.cl/megan-williams/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mewilliams"
- #   - label: "Instagram"
- #     icon: "fab fa-fw fa-instagram"
- #     url: "https://instagram.com/"
+    - label: "ResearchGate"
+      icon: "fab fa-brands fa-researchgate"
+      url: "https://www.researchgate.net/profile/Megan-Williams-17"
+    - label: "Google Scholar"
+      icon: 
+      url: "https://scholar.google.com/citations?user=CoaAqroAAAAJ&hl=en"
+
+
+# <i class="fa-brands fa-researchgate"></i>
 
 footer:
   links:
