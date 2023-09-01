@@ -13,5 +13,6 @@ title: "Other Resources"
 
 *** 
 
+**Posters, Presentations, etc.** 
 
 Bodega Marine Laboratory seminar, 30 August 2023: [[slides here]](../assets/images/seminar_BML_30aug2023_slides.pdf)
