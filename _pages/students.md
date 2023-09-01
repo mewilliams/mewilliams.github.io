@@ -1,3 +1,8 @@
+---
+permalink: /students/
+title: "Students"
+---
+
 ##### Undergraduate student theses:
 
 Sebastián Gajardo - [Construccion y Uso de Instrumentos para Mediciones Costeras](https://repositorio.usm.cl/handle/11673/53354)
