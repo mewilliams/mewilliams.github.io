@@ -115,14 +115,14 @@ defaults:
   # _publications
   - scope:
       path: "_pages/publications"
-      type: pages
+      type: publications
       values:
       layout: single
       author_profile: true
   # _etc
   - scope:
       path: "_pages/etc"
-      type: pages
+      type: other
       values:
       layout: single
       author_profile: true
