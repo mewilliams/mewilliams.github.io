@@ -1,3 +1,8 @@
+---
+permalink: /teaching/
+title: "Teaching"
+---
+
 #### Current Courses
 
 ##### Pontificia Universidad Católica de Chile
