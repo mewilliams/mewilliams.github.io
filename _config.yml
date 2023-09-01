@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Megan Williams"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Assistant Professor, Hydraulic and Environmental Engineering & Biological Sciences, Pontificia Universidad Católica de Chile."
   links:
     - label: "Facultad de Ciencias Biológicas"
       icon: "fas fa-fw fa-link"
