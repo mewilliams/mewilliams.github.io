@@ -1,5 +1,17 @@
 ---
 permalink: /etc/
-title: "Other"
+title: "Other Resources"
 ---
+
+**Oceanographic and Earth Science Data in Chile** 
+
+*   SHOA http://www.shoa.cl/
+*   MeteoChile: https://climatologia.meteochile.gob.cl/
+*   IFOP CHONOS: chonos.ifop.cl
+*   DGA: dga.mop.gob.cl/
+
+
+*** 
+
+
 Slides, seminar Bodega Marine Laboratory, 30 Aug. 2023: [pdf](../assets/images/seminar_BML_30aug2023_slides.pdf)
