@@ -5,7 +5,7 @@ title: "Publications"
 
 ##### 2023
 
-Solan, M., Spencer, T., Paterson, D.M., Unsworth, C.A., Christie, E.K., Blight, A., Brown, J., Brooks, H., Lichtman, I.D., Wei, X., Li, X., Thorne, P., Leyland, J., Godbold, J.A., Thompson, C., **Williams, M.E.**, Plater, A., Moller, I., Amoudry, L.O., (2023), Biological-physical interactions are fundamental to understanding and managing coastal dynamics. Royal Society Open Science_. 10, 230155 doi:10.1098/rsos.230155
+Solan, M., Spencer, T., Paterson, D.M., Unsworth, C.A., Christie, E.K., Blight, A., Brown, J., Brooks, H., Lichtman, I.D., Wei, X., Li, X., Thorne, P., Leyland, J., Godbold, J.A., Thompson, C., **Williams, M.E.**, Plater, A., Moller, I., Amoudry, L.O., (2023), Biological-physical interactions are fundamental to understanding and managing coastal dynamics. _Royal Society Open Science_. 10, 230155 doi:10.1098/rsos.230155
 
 Escauriaza, C., González, C., **Williams, M.E.**, Brevis, W. (2023), Models of bed-load transport across scales: turbulence signature from grain motion to sediment flux, _Stochastic Environmental Research and Risk Assessment_. 37, 1039-1052 doi:10.1007/s00477-022-02333-9
 
