@@ -5,7 +5,9 @@ main:
     url: /publications/
   - title: "Teaching"
     url: /teaching/
-  - students: "Students"
+  - title: "Students"
     url: /students/
+  - title: "Other"
+    url: /etc/
   # - title: "About"
   #   url: /about/
