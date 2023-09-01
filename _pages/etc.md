@@ -6,9 +6,9 @@ title: "Other Resources"
 **Oceanographic and Earth Science Data in Chile** 
 
 *   SHOA http://www.shoa.cl/
-*   MeteoChile: https://climatologia.meteochile.gob.cl/
+*   Meteorological Data: [Dirección Meterológica de Chile](https://climatologia.meteochile.gob.cl/application/informacion/buscadorEstaciones)
 *   IFOP CHONOS: chonos.ifop.cl
-*   DGA: dga.mop.gob.cl/
+*   Stream Gauge, Water Rights, Subsurface Wells: [DGA](dga.mop.gob.cl)
 
 
 *** 
