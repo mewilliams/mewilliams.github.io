@@ -119,6 +119,13 @@ defaults:
       values:
       layout: single
       author_profile: true
+  # _etc
+  - scope:
+      path: "_pages/etc"
+      type: pages
+      values:
+      layout: single
+      author_profile: true
 
 category_archive:
   type: liquid
