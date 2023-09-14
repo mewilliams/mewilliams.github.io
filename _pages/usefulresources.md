@@ -1,3 +1,7 @@
+---
+permalink: /usefulresources/
+title: "Useful Resources"
+---
 
 
 
