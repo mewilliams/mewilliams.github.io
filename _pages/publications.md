@@ -5,21 +5,21 @@ title: "Publications"
 
 ##### 2023
 
-Solan, M., Spencer, T., Paterson, D.M., Unsworth, C.A., Christie, E.K., Blight, A., Brown, J., Brooks, H., Lichtman, I.D., Wei, X., Li, X., Thorne, P., Leyland, J., Godbold, J.A., Thompson, C., **Williams, M.E.**, Plater, A., Moller, I., Amoudry, L.O., (2023), Biological-physical interactions are fundamental to understanding and managing coastal dynamics. _Royal Society Open Science_. 10, 230155 doi:10.1098/rsos.230155 [[here]](https://royalsocietypublishing.org/doi/10.1098/rsos.230155)
+Solan, M., Spencer, T., Paterson, D.M., Unsworth, C.A., Christie, E.K., Blight, A., Brown, J., Brooks, H., Lichtman, I.D., Wei, X., Li, X., Thorne, P., Leyland, J., Godbold, J.A., Thompson, C., **Williams, M.E.**, Plater, A., Moller, I., Amoudry, L.O., (2023), Biological-physical interactions are fundamental to understanding and managing coastal dynamics. _Royal Society Open Science_. 10, 230155 [[doi:10.1098/rsos.230155]](https://royalsocietypublishing.org/doi/10.1098/rsos.230155)
 
-Escauriaza, C., González, C., **Williams, M.E.**, Brevis, W. (2023), Models of bed-load transport across scales: turbulence signature from grain motion to sediment flux, _Stochastic Environmental Research and Risk Assessment_. 37, 1039-1052 doi:10.1007/s00477-022-02333-9 [[here]](https://link.springer.com/article/10.1007/s00477-022-02333-9)
+Escauriaza, C., González, C., **Williams, M.E.**, Brevis, W. (2023), Models of bed-load transport across scales: turbulence signature from grain motion to sediment flux, _Stochastic Environmental Research and Risk Assessment_. 37, 1039-1052 [[doi:10.1007/s00477-022-02333-9]](https://link.springer.com/article/10.1007/s00477-022-02333-9)
 
 ##### 2022
 
-Flores, R.P., **Williams, M.E.**, Horner-Devine, A.R. (2022), River plume modulation by infragravity wave forcing. _Geophysical Research Letters_. 49, e2021GL097467, doi:10.1029/2021GL097467 [[here]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL097467)
+Flores, R.P., **Williams, M.E.**, Horner-Devine, A.R. (2022), River plume modulation by infragravity wave forcing. _Geophysical Research Letters_. 49, e2021GL097467, [[doi:10.1029/2021GL097467]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2021GL097467)
 
-Wei, X., **Williams, M.E.**, Brown, J.M., Thorne, P.D., Amoudry, L.O. (2022), Salt intrusion as a function of estuary length in periodically weakly stratified estuaries. _Geophysical Research Letters_. 49, e2022GL099082, doi:10.1029/2022GL099082 [[here]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL099082)
+Wei, X., **Williams, M.E.**, Brown, J.M., Thorne, P.D., Amoudry, L.O. (2022), Salt intrusion as a function of estuary length in periodically weakly stratified estuaries. _Geophysical Research Letters_. 49, e2022GL099082, [[doi:10.1029/2022GL099082]](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022GL099082)
 
 ##### 2021
 
-Guerrero, Q., **Williams, M.E.**, Guillén, J., Lichtman, I.D., Thorne, P.D., Amoudry, L.O. (2021), Small-scale bedforms and associated sediment transport in a macro-tidal lower shoreface. _Continental Shelf Research_. 104483, doi:10.1016/j.csr.2021.104483 [[here]](https://www.sciencedirect.com/science/article/pii/S0278434321001400)
+Guerrero, Q., **Williams, M.E.**, Guillén, J., Lichtman, I.D., Thorne, P.D., Amoudry, L.O. (2021), Small-scale bedforms and associated sediment transport in a macro-tidal lower shoreface. _Continental Shelf Research_. 104483, [[doi:10.1016/j.csr.2021.104483]](https://www.sciencedirect.com/science/article/pii/S0278434321001400)
 
-Wei, X., Schuttelaars, H.M., **Williams, M.E.**, Brown, J.M., Thorne, P.D., Amoudry, L.O. (2021), Unravelling interactions between asymmetric tidal turbulence, residual circulation and salinity dynamics in short, periodically weakly stratified estuaries. _Journal of Physical Oceanography_. 51(5), 1395-1416, doi:10.1175/JPO-D-20-0146.1 [link](https://journals.ametsoc.org/view/journals/phoc/51/5/JPO-D-20-0146.1.xml)
+Wei, X., Schuttelaars, H.M., **Williams, M.E.**, Brown, J.M., Thorne, P.D., Amoudry, L.O. (2021), Unravelling interactions between asymmetric tidal turbulence, residual circulation and salinity dynamics in short, periodically weakly stratified estuaries. _Journal of Physical Oceanography_. 51(5), 1395-1416, [[doi:10.1175/JPO-D-20-0146.1]](https://journals.ametsoc.org/view/journals/phoc/51/5/JPO-D-20-0146.1.xml)
 
 ##### 2020 and earlier
 
@@ -27,7 +27,7 @@ Billson, O., Russell, P., Davidson, M., Poate, T., Amoudry, L., **Williams, M.**
 
 Wei, X., Brown, J.M., Williams, J., Thorne, P.D., **Williams, M.E.**, Amoudry, L.O. (2019). Importance of storm propagation speed to coastal flood hazard induced by offshore storms. _Ocean Modelling_. 143, 101472, doi:10.1016/j.ocemod.2019.101472
 
-\entry{Thompson, C.E.L., **Williams, M.E.**, Amoudry, L., Hull, T., Reynolds, S., Panton, A., Fones, G.R. (2019). Benthic controls of resuspension in UK shelf seas: implications for resuspension frequency. _Continental Shelf Research_. 185, 3--15 doi:10.1016/j.csr.2017.12.005} [[here]](https://www.sciencedirect.com/science/article/pii/S0278434317302728)
+Thompson, C.E.L., **Williams, M.E.**, Amoudry, L., Hull, T., Reynolds, S., Panton, A., Fones, G.R. (2019). Benthic controls of resuspension in UK shelf seas: implications for resuspension frequency. _Continental Shelf Research_. 185, 3--15 doi:10.1016/j.csr.2017.12.005} [[here]](https://www.sciencedirect.com/science/article/pii/S0278434317302728)
 
 Lichtman, I.D., **Williams, M.E.**, Thorne, P.D., Amoudry, L.O., et al. (2019). Sediment flux variability on tidal flats: results from Morecambe Bay, UK. _Proceedings of Coastal Sediments 2019_, 1041-1048. doi:10.1142/9789811204487\_0091
 
