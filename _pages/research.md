@@ -8,7 +8,7 @@ title: "Research"
 ###### Semi-arid coastal basins as indicators of climate crisis adaptation
 Anillos de Investigación en Áreas Temáticas Específicas (2022-2025)
 
-[[Postdoctoral Opportunity]](../assets/documents/POSTDOCTORAL_POSITION_PD3_ATE220055.pdf)
+[Postdoctoral Opportunity](../assets/documents/POSTDOCTORAL_POSITION_PD3_ATE220055.pdf)
 
 
 ###### Stratified coastal dynamics of internal waves and glacial river plume interactions
