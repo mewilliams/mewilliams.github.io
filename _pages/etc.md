@@ -31,6 +31,6 @@ Buoys in Chile
 
 *** 
 
-**Posters, Presentations, etc.** 
+<!---  **Posters, Presentations, etc.** --->
 
-Bodega Marine Laboratory seminar, 30 August 2023: [[slides here]](../assets/images/seminar_BML_30aug2023_slides.pdf)
+<!--- Bodega Marine Laboratory seminar, 30 August 2023: [[slides here]](../assets/images/seminar_BML_30aug2023_slides.pdf) --->
