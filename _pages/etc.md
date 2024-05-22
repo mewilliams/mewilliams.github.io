@@ -12,6 +12,7 @@ Tides
 Waves
 *   SHOA (3 wave buoys) http://www.shoa.cl/
 *   Chilean Atlas de Oleaje - https://oleaje.uv.cl/
+*   ERA5 reanalysis: https://www.ecmwf.int/en/forecasts/dataset/ecmwf-reanalysis-v5
 
 Meteorological data
 *   Meteorological Data: [Dirección Meterológica de Chile](https://climatologia.meteochile.gob.cl/application/informacion/buscadorEstaciones)
