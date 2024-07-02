@@ -10,4 +10,6 @@ title: "Pichicuy"
 
 [](assets/images/comparison_pichicuy_two_images_july2017_june2024.gif)
 
-![](assets/images/comparison_pichicuy_two_images_july2017_june2024.gif)
+![](../assets/images/comparison_pichicuy_two_images_july2017_june2024.gif)
+
+
