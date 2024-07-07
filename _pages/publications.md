@@ -5,7 +5,7 @@ title: "Publications"
 
 ##### 2024
 
-Iossif Lozovatsky, I., Escauriaza, C., Suarez, L., Fernando,  H.J.S., **Williams, M.**, Coppersmith, R.S., Mayorga, N. (2024). A snapshot of turbulence in the Northeastern Magellan Strait. _Ocean Dynamics_. 74, 459–469 [doi:10.1007/s10236-024-01613-y](https://link.springer.com/article/10.1007/s10236-024-01613-y)
+Lozovatsky, I., Escauriaza, C., Suarez, L., Fernando,  H.J.S., **Williams, M.**, Coppersmith, R.S., Mayorga, N. (2024). A snapshot of turbulence in the Northeastern Magellan Strait. _Ocean Dynamics_. 74, 459–469 [doi:10.1007/s10236-024-01613-y](https://link.springer.com/article/10.1007/s10236-024-01613-y)
     
 
 
