@@ -70,7 +70,3 @@ mareomotriz en el Estrecho de Magallanes. _Proceedings of the XXV Congreso Chile
 Jainaga, I., Roco, A., Flores, R., **Williams, M.**, Horner-Devine, A. (2021) Esquema predictivo para la descarga de
 ríos pequeños en la zona de rompiente: aplicación a la desembocadura del Río Maipo. _Proceedings of the XXV
 Congreso Chileno de Ingeniería Hidráulica_
-
-Lichtman, I.D., **Williams, M.E.**, Thorne, P.D., Amoudry, L.O., et al. (2019). Sediment flux variability on tidal
-flats: results from Morecambe Bay, UK. _Proceedings of Coastal Sediments 2019_, 1041-1048.
-doi:10.1142/9789811204487_0091
