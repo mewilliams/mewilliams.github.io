@@ -44,3 +44,33 @@ Lichtman, I.D., **Williams, M.E.**, Thorne, P.D., Amoudry, L.O., et al. (2019). 
 Thompson, C.E.L., Silburn, B., **Williams, M.E.**, Hull, T, Sivyer, D., Amoudry, L.O., Widdicombe, S., Ingels, J. , Carnovale, G., McNeill, C.L. , Hale, R., Laguionie Marchais, C., Hicks, N., Smith, H.E.K., Klar, J.K., Hiddink, J.G., Kowalik, J, Kitidis, V., Reynolds, S., Woodward, E.M.S., Tait, K., Homoky, W., Kröger, S., Bolam, S., Godbold, J.A., Aldridge, J., Mayor, D.J, Benoist, N.M.A., Bett, B.J., Morris, K.J., Parker E.R., Ruhl, H.A., Statham, P.J., Solan, M. (2017) An approach for the identification of exemplar sites for scaling up targeted field observations of benthic biogeochemistry in heterogeneous environments. _Biogeochemistry_, 135(1-2), 1--34. [doi:10.1007/s10533-017-0366-1](https://link.springer.com/article/10.1007/s10533-017-0366-1)
 
 **Williams, M.E.**, Stacey, M.T. (2016). Tidally discontinuous ocean forcing in bar-built estuaries: The interaction of tides, infragravity motions, and frictional control. _Journal of Geophysical Research -- Oceans_, 121, 571-585. [doi:10.1002/2015JC011166](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1002/2015JC011166)
+
+
+***
+
+##### Conference Proceedings
+
+Jusari, N., Suárez, L., Flores, R., Williams, M., Escauriaza, C., Cortés, J., Guerra, M. (2023), Estimación del Flujo
+de Sedimentos en Suspensión en el Estuario del Río Maipo Mediante Métodos Acústicos y Ópticos, Proceedings of the
+XXVI Congreso Chileno de Ingeniería Hidráulica.
+
+Monasterio, M., Williams, M., Soto, K., Artal, O., Suárez, L., Escauriaza, C., (2023), Potencial de Energía Marina
+en el Canal Fitz Roy, Proceedings of the XXVI Congreso Chileno de Ingeniería Hidráulica.
+
+Soto Rivas, K., Flores Audibert, R., Williams, M., Escauriaza Mesa, C., (2023), Dinámica Del Flujo En La
+Desembocadura del Río Maipo Bajo Escenarios de Cambio Climático, Proceedings of the XXVI Congreso Chileno de
+Ingeniería Hidráulica.
+
+Sepúlveda, D., Williams, M. (2021), Efectos hidrodinámicos del viento en un estuario pequeño y estratificado.
+Proceedings of the XXV Congreso Chileno de Ingeniería Hidráulica
+
+Suarez, L., Ruíz, C., Guerra, M., Escauriaza, C., Williams, M. (2021) Caracterización del recurso energético
+mareomotriz en el Estrecho de Magallanes. Proceedings of the XXV Congreso Chileno de Ingeniería Hidráulica
+
+Jainaga, I., Roco, A., Flores, R., Williams, M., Horner-Devine, A. (2021) Esquema predictivo para la descarga de
+ríos pequeños en la zona de rompiente: aplicación a la desembocadura del Río Maipo. Proceedings of the XXV
+Congreso Chileno de Ingeniería Hidráulica
+
+Lichtman, I.D., Williams, M.E., Thorne, P.D., Amoudry, L.O., et al. (2019). Sediment flux variability on tidal
+flats: results from Morecambe Bay, UK. Proceedings of Coastal Sediments 2019, 1041-1048.
+doi:10.1142/9789811204487_0091
