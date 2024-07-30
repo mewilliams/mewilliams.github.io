@@ -34,3 +34,31 @@ Buoys in Chile
 <!---  **Posters, Presentations, etc.** --->
 
 <!--- Bodega Marine Laboratory seminar, 30 August 2023: [[slides here]](../assets/images/seminar_BML_30aug2023_slides.pdf) --->
+
+**Resources to learn to code**
+
+
+https://www.codecademy.com/learn/learn-r
+
+
+Programming, Data Analysis, Scientific Computing: Some in Spanish:
+https://datacarpentry.org/lessons/
+https://datacarpentry.org/semester-biology/
+https://software-carpentry.org/lessons/
+
+https://rladies.org/ 
+https://www.meetup.com/es/rladies-scl/
+Twitter- @RLadiesSantiago
+
+Curso INE programación R:
+https://youtube.com/playlist?list=PL9bSrHSohaeGYHryIyO0ch2qCtnBN4kdt&si=lziCrjruYykj3LsD
+
+https://www.coursera.org/learn/analisis-de-datos-con-programacion-en-r
+https://www.coursera.org/specializations/python
+
+Cursos PUC: 
+CURSO:INTRODUCCION A LA PROGRAMACION
+TRADUCCION:INTRODUCTION TO PROGRAMMING
+SIGLA:IIC1103
+
+Programming R: https://cambiotraining.github.io/intro-r/index.html
