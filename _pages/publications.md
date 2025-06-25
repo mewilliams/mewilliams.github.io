@@ -5,19 +5,19 @@ title: "Publications"
 
 ##### 2025
 
-Álvarez-Silva, Ó, JF Paniagua-Arroyave, J.F., Cantero, E., Lessa, G.C., Moreira, D.  Ross, L.,  Santoro, P.,  Schettini, C.A.F., **Williams, M.E.**,  Valle-Levinson, A.  Semi-enclosed coastal systems of South America: compilation and dynamic-based classification. (2025) _Continental Shelf Research_, 105493 [doi:10.1016/j.csr.2025.105493](https://doi.org/10.1016/j.csr.2025.105493)
+Álvarez-Silva, Ó, JF Paniagua-Arroyave, J.F., Cantero, E., Lessa, G.C., Moreira, D.  Ross, L.,  Santoro, P.,  Schettini, C.A.F., **Williams, M.E.**,  Valle-Levinson, A. (2025), Semi-enclosed coastal systems of South America: compilation and dynamic-based classification. _Continental Shelf Research_, 105493 [doi:10.1016/j.csr.2025.105493](https://doi.org/10.1016/j.csr.2025.105493)
 
-Suarez, L., Guerra, M., **Williams, M.E.**, Escauriaza, C. Tidal energy resource assessment in the Strait of Magellan in the Chilean Patagonia. (2025). _Renewable Energy_, 123430 [doi:10.1016/j.renene.2025.123430](https://doi.org/10.1016/j.renene.2025.123430)
+Suarez, L., Guerra, M., **Williams, M.E.**, Escauriaza, C. Tidal energy resource assessment in the Strait of Magellan in the Chilean Patagonia. (2025), _Renewable Energy_, 123430 [doi:10.1016/j.renene.2025.123430](https://doi.org/10.1016/j.renene.2025.123430)
 
-Escauriaza, C., **Williams, M.E.** Antidune simulations using continuum‐based models (2025). _Earth Surface Processes and Landforms_. 50 (1), e6058 [doi:10.1002/esp.6058](https://doi.org/10.1002/esp.6058)
+Escauriaza, C., **Williams, M.E.** (2025), Antidune simulations using continuum‐based models. _Earth Surface Processes and Landforms_. 50 (1), e6058 [doi:10.1002/esp.6058](https://doi.org/10.1002/esp.6058)
 
 ##### 2024
 
-Suarez, L., Guerra, M., **Williams, M.E.**, Escauriaza, C., Lozovatsky, I., Coppersmith, R., Fernando, H.J.S. Flow characterization and turbulence in the eastern section of the Strait of Magellan, Southern Chile. (2024). _Continental Shelf Research_. 283, 105344 [doi:10.1016/j.csr.2024.105344](https://doi.org/10.1016/j.csr.2024.105344)
+Suarez, L., Guerra, M., **Williams, M.E.**, Escauriaza, C., Lozovatsky, I., Coppersmith, R., Fernando, H.J.S. Flow characterization and turbulence in the eastern section of the Strait of Magellan, Southern Chile. (2024), _Continental Shelf Research_. 283, 105344 [doi:10.1016/j.csr.2024.105344](https://doi.org/10.1016/j.csr.2024.105344)
 
-Soto-Rivas K., Flores, R.P., **Williams, M.**, Escauriaza, C. (2024). Understanding Salinity Intrusion and Residence Times in a Small-Scale Bar-Built Estuary under Drought Scenarios: The Maipo River Estuary, Central Chile. _Journal of Marine Science and Engineering_ 12 (7), 1162
+Soto-Rivas K., Flores, R.P., **Williams, M.**, Escauriaza, C. (2024), Understanding Salinity Intrusion and Residence Times in a Small-Scale Bar-Built Estuary under Drought Scenarios: The Maipo River Estuary, Central Chile. _Journal of Marine Science and Engineering_ 12 (7), 1162
 
-Lozovatsky, I., Escauriaza, C., Suarez, L., Fernando,  H.J.S., **Williams, M.**, Coppersmith, R.S., Mayorga, N. (2024). A snapshot of turbulence in the Northeastern Magellan Strait. _Ocean Dynamics_. 74, 459–469 [doi:10.1007/s10236-024-01613-y](https://link.springer.com/article/10.1007/s10236-024-01613-y)
+Lozovatsky, I., Escauriaza, C., Suarez, L., Fernando,  H.J.S., **Williams, M.**, Coppersmith, R.S., Mayorga, N. (2024), A snapshot of turbulence in the Northeastern Magellan Strait. _Ocean Dynamics_. 74, 459–469 [doi:10.1007/s10236-024-01613-y](https://link.springer.com/article/10.1007/s10236-024-01613-y)
     
 Roco, A., Flores,R.P., **Williams, M.E.**, Saldias, G.S. (2024), Observations of river-wave interactions at a small-scale river mouth. _Coastal Engineering_. 189, 104456 [doi:10.1016/j.coastaleng.2024.104456](https://www.sciencedirect.com/science/article/pii/S0378383924000048)
 
