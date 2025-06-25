@@ -22,7 +22,7 @@ title: "Useful Resources"
 
 
 
-ADV Despiking: Typically uses Goring & Nikora method. Code written for [MATLAB](https://la.mathworks.com/matlabcentral/fileexchange/15361-despiking), [R](https://rdrr.io/github/jsta/adv/man/spikegornik.html), [Python]( , another toolbox containing a [Matlab version](https://github.com/macvicab/MITT/)
+ADV Despiking: Typically uses Goring & Nikora method. Code written for [MATLAB](https://la.mathworks.com/matlabcentral/fileexchange/15361-despiking), [R](https://rdrr.io/github/jsta/adv/man/spikegornik.html), another toolbox containing a [Matlab version](https://github.com/macvicab/MITT/)
 
 Other methods or toolboxes for Despiking: 
 
