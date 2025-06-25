@@ -13,7 +13,7 @@ Escauriaza, C., **Williams, M.E.** Antidune simulations using continuum‐based 
 
 ##### 2024
 
-Suarez, L., Guerra, M., **Williams, M.E.**, Escauriaza, C., Lozovatsky, I., Coppersmith, R., Fernando, H.J.S. Flow characterization and turbulence in the eastern section of the Strait of Magellan, Southern Chile. (2024). _Continental Shelf Research_. 283, 105344
+Suarez, L., Guerra, M., **Williams, M.E.**, Escauriaza, C., Lozovatsky, I., Coppersmith, R., Fernando, H.J.S. Flow characterization and turbulence in the eastern section of the Strait of Magellan, Southern Chile. (2024). _Continental Shelf Research_. 283, 105344 [doi:10.1016/j.csr.2024.105344](https://doi.org/10.1016/j.csr.2024.105344)
 
 Soto-Rivas K., Flores, R.P., **Williams, M.**, Escauriaza, C. (2024). Understanding Salinity Intrusion and Residence Times in a Small-Scale Bar-Built Estuary under Drought Scenarios: The Maipo River Estuary, Central Chile. _Journal of Marine Science and Engineering_ 12 (7), 1162
 
