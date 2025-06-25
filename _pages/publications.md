@@ -5,7 +5,7 @@ title: "Publications"
 
 ##### 2025
 
-Álvarez-Silva, Ó, JF Paniagua-Arroyave, J.F., Cantero, E., Lessa, G.C., Moreira, D.  Ross, L.,  Santoro, P.,  Schettini, C.A.F., Williams, M.E.,  Valle-Levinson, A.  Semi-enclosed coastal systems of South America: compilation and dynamic-based classification. (2025) _Continental Shelf Research_, 105493 [doi:10.1016/j.csr.2025.105493](https://doi.org/10.1016/j.csr.2025.105493)
+Álvarez-Silva, Ó, JF Paniagua-Arroyave, J.F., Cantero, E., Lessa, G.C., Moreira, D.  Ross, L.,  Santoro, P.,  Schettini, C.A.F., **Williams, M.E.**,  Valle-Levinson, A.  Semi-enclosed coastal systems of South America: compilation and dynamic-based classification. (2025) _Continental Shelf Research_, 105493 [doi:10.1016/j.csr.2025.105493](https://doi.org/10.1016/j.csr.2025.105493)
 
 Suarez, L., Guerra, M., **Williams, M.E.**, Escauriaza, C. Tidal energy resource assessment in the Strait of Magellan in the Chilean Patagonia. (2025). _Renewable Energy_, 123430 [doi:10.1016/j.renene.2025.123430](https://doi.org/10.1016/j.renene.2025.123430)
 
