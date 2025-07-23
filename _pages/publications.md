@@ -5,6 +5,9 @@ title: "Publications"
 
 ##### 2025
 
+Poblete, D. et l. (2025), Using a Robust Decision Making (RDM) approach to explore current and future vulnerabilities of a semi-arid coastal basin: A case study of the Quilimarí basin in Chile, _Frontiers in Environmental Science_, 13, [doi:10.3389/fenvs.2025.1553675](https://doi.org/10.3389/fenvs.2025.1553675/abstract)
+
+
 Álvarez-Silva, Ó, JF Paniagua-Arroyave, J.F., Cantero, E., Lessa, G.C., Moreira, D.  Ross, L.,  Santoro, P.,  Schettini, C.A.F., **Williams, M.E.**,  Valle-Levinson, A. (2025), Semi-enclosed coastal systems of South America: compilation and dynamic-based classification. _Continental Shelf Research_, 105493 [doi:10.1016/j.csr.2025.105493](https://doi.org/10.1016/j.csr.2025.105493)
 
 Suarez, L., Guerra, M., **Williams, M.E.**, Escauriaza, C. Tidal energy resource assessment in the Strait of Magellan in the Chilean Patagonia. (2025), _Renewable Energy_, 123430 [doi:10.1016/j.renene.2025.123430](https://doi.org/10.1016/j.renene.2025.123430)
