@@ -35,4 +35,7 @@ Other methods or toolboxes for Despiking:
 [A quick guide to writing a solid peer review](https://eos.org/science-updates/a-quick-guide-to-writing-a-solid-peer-review)
 
 
+##### On scientific figure colors
+
+[Crameri et al. (2020) The misuse of colour in science communication](https://www.nature.com/articles/s41467-020-19160-7)
 
