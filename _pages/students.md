@@ -1,3 +1,10 @@
+---
+layout: single
+permalink: /students/
+title: "Students"
+---
+
+
 ## Current Students
 
 {% for s in site.data.students.current %}
