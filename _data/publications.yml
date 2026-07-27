@@ -14,7 +14,7 @@
   status: published
   student_authors:
     - "Gutiérrez, K."
-  authors: "Gutiérrez, K., Williams, M.E., Correa, S., Winckler, P., Escauriaza, C."
+  authors: "Gutiérrez, K., **Williams, M.E.**, Correa, S., Winckler, P., Escauriaza, C."
   title: "Modeling wave-induced sediment transport and morphodynamic response in a bar-built estuary"
   journal: "Coastal Engineering"
   volume: "210"
@@ -23,7 +23,7 @@
 
 - year: 2025
   status: published
-  authors: "Poblete, D., Vicuña, S., Aedo, S., Molina-Perez, E., Cortés, H., Melo, O., Ocampo-Melgar, A., Tesen, K., Suárez, F., Herane, J.P., Meza, F., Duarte, K., González, D., Leray, S., Williams, M., Gaxiola, A., Alfaro, G., Morales-Moraga, D."
+  authors: "Poblete, D., Vicuña, S., Aedo, S., Molina-Perez, E., Cortés, H., Melo, O., Ocampo-Melgar, A., Tesen, K., Suárez, F., Herane, J.P., Meza, F., Duarte, K., González, D., Leray, S., **Williams, M.**, Gaxiola, A., Alfaro, G., Morales-Moraga, D."
   title: "Using a robust decision making (RDM) approach to explore current and future vulnerabilities of a semi-arid coastal basin: A case study of the Quilimarí basin in Chile"
   journal: "Frontiers in Environmental Science"
   volume: "13"
@@ -32,7 +32,7 @@
 
 - year: 2025
   status: published
-  authors: "Alvarez-Silva, O., Paniagua-Arroyave, J.F., Cantero, E., Lessa, G.C., Moreira, D., Ross, L., Santoro, P., Schettini, C.A.F., Williams, M.E., Valle-Levinson, A."
+  authors: "Alvarez-Silva, O., Paniagua-Arroyave, J.F., Cantero, E., Lessa, G.C., Moreira, D., Ross, L., Santoro, P., Schettini, C.A.F., **Williams, M.E.**, Valle-Levinson, A."
   title: "Semi-enclosed coastal systems of South America: compilation and dynamic-based classification"
   journal: "Continental Shelf Research"
   volume: "292"
@@ -41,7 +41,7 @@
 
 - year: 2025
   status: published
-  authors: "Suarez, L., Guerra, M., Escauriaza, C., Williams, M.E."
+  authors: "Suarez, L., Guerra, M., Escauriaza, C., **Williams, M.E.**"
   title: "Tidal energy resource assessment in the Strait of Magellan in the Chilean Patagonia"
   journal: "Renewable Energy"
   volume: "252"
@@ -50,7 +50,7 @@
 
 - year: 2025
   status: published
-  authors: "Escauriaza, C., Williams, M.E."
+  authors: "Escauriaza, C., **Williams, M.E.**"
   title: "Antidune simulations using continuum-based models"
   journal: "Earth Surface Processes and Landforms"
   volume: "50(1)"
@@ -59,7 +59,7 @@
 
 - year: 2024
   status: published
-  authors: "Suarez, L., Guerra, M., Williams, M.E., Escauriaza, C., Lozovatsky, I., Coppersmith, R., Fernando, H.J.S."
+  authors: "Suarez, L., Guerra, M., **Williams, M.E.**, Escauriaza, C., Lozovatsky, I., Coppersmith, R., Fernando, H.J.S."
   title: "Flow characterization and turbulence in the eastern section of the Strait of Magellan, Southern Chile"
   journal: "Continental Shelf Research"
   pages: "105344"
@@ -67,7 +67,7 @@
 
 - year: 2024
   status: published
-  authors: "Soto-Rivas, K., Flores, R.P., Williams, M., Escauriaza, C."
+  authors: "Soto-Rivas, K., Flores, R.P., **Williams, M.**, Escauriaza, C."
   title: "Understanding Salinity Intrusion and Residence Times in a Small-Scale Bar-Built Estuary under Drought Scenarios: The Maipo River Estuary, Central Chile"
   journal: "Journal of Marine Science and Engineering"
   volume: "12(7)"
@@ -76,7 +76,7 @@
 
 - year: 2024
   status: published
-  authors: "Lozovatsky, I., Escauriaza, C., Suarez, L., Fernando, H.J.S., Williams, M., Coppersmith, R.S., Mayorga, N."
+  authors: "Lozovatsky, I., Escauriaza, C., Suarez, L., Fernando, H.J.S., **Williams, M.**, Coppersmith, R.S., Mayorga, N."
   title: "A snapshot of turbulence in the Northeastern Magellan Strait"
   journal: "Ocean Dynamics"
   volume: "74"
@@ -87,7 +87,7 @@
   status: published
   student_authors:
     - "Roco, A."
-  authors: "Roco, A., Flores, R.P., Williams, M.E., Saldías, G.S."
+  authors: "Roco, A., Flores, R.P., **Williams, M.E.**, Saldías, G.S."
   title: "Observations of river-wave interactions at a small-scale river mouth"
   journal: "Coastal Engineering"
   volume: "189"
@@ -96,7 +96,7 @@
 
 - year: 2023
   status: published
-  authors: "Solan, M., Spencer, T., Paterson, D.M., Unsworth, C.A., Christie, E.K., Blight, A., Brown, J., Brooks, H., Lichtman, I.D., Wei, X., Li, X., Thorne, P., Leyland, J., Godbold, J.A., Thompson, C., Williams, M.E., Plater, A., Moller, I., Amoudry, L.O."
+  authors: "Solan, M., Spencer, T., Paterson, D.M., Unsworth, C.A., Christie, E.K., Blight, A., Brown, J., Brooks, H., Lichtman, I.D., Wei, X., Li, X., Thorne, P., Leyland, J., Godbold, J.A., Thompson, C., **Williams, M.E.**, Plater, A., Moller, I., Amoudry, L.O."
   title: "Biological-physical interactions are fundamental to understanding and managing coastal dynamics"
   journal: "Royal Society Open Science"
   volume: "10"
@@ -105,7 +105,7 @@
 
 - year: 2023
   status: published
-  authors: "Escauriaza, C., González, C., Williams, M.E., Brevis, W."
+  authors: "Escauriaza, C., González, C., **Williams, M.E.**, Brevis, W."
   title: "Models of bed-load transport across scales: turbulence signature from grain motion to sediment flux"
   journal: "Stochastic Environmental Research and Risk Assessment"
   volume: "37"
@@ -114,7 +114,7 @@
 
 - year: 2022
   status: published
-  authors: "Flores, R.P., Williams, M.E., Horner-Devine, A.R."
+  authors: "Flores, R.P., **Williams, M.E.**, Horner-Devine, A.R."
   title: "River plume modulation by infragravity wave forcing"
   journal: "Geophysical Research Letters"
   volume: "49"
@@ -123,7 +123,7 @@
 
 - year: 2022
   status: published
-  authors: "Wei, X., Williams, M.E., Brown, J.M., Thorne, P.D., Amoudry, L.O."
+  authors: "Wei, X., **Williams, M.E.**, Brown, J.M., Thorne, P.D., Amoudry, L.O."
   title: "Salt intrusion as a function of estuary length in periodically weakly stratified estuaries"
   journal: "Geophysical Research Letters"
   volume: "49"
@@ -134,7 +134,7 @@
   status: published
   student_authors:
     - "Guerrero, Q."
-  authors: "Guerrero, Q., Williams, M.E., Guillén, J., Lichtman, I.D., Thorne, P.D., Amoudry, L.O."
+  authors: "Guerrero, Q., **Williams, M.E.**, Guillén, J., Lichtman, I.D., Thorne, P.D., Amoudry, L.O."
   title: "Small-scale bedforms and associated sediment transport in a macro-tidal lower shoreface"
   journal: "Continental Shelf Research"
   pages: "104483"
@@ -142,7 +142,7 @@
 
 - year: 2021
   status: published
-  authors: "Wei, X., Schuttelaars, H.M., Williams, M.E., Brown, J.M., Thorne, P.D., Amoudry, L.O."
+  authors: "Wei, X., Schuttelaars, H.M., **Williams, M.E.**, Brown, J.M., Thorne, P.D., Amoudry, L.O."
   title: "Unravelling interactions between asymmetric tidal turbulence, residual circulation and salinity dynamics in short, periodically weakly stratified estuaries"
   journal: "Journal of Physical Oceanography"
   volume: "51(5)"
@@ -151,7 +151,7 @@
 
 - year: 2020
   status: published
-  authors: "Billson, O., Russell, P., Davidson, M., Poate, T., Amoudry, L., Williams, M."
+  authors: "Billson, O., Russell, P., Davidson, M., Poate, T., Amoudry, L., **Williams, M.**"
   title: "In-situ observations of infragravity response during extreme storms on sand and gravel beaches"
   journal: "Journal of Coastal Research"
   volume: "95(SI)"
@@ -160,7 +160,7 @@
 
 - year: 2019
   status: published
-  authors: "Wei, X., Brown, J.M., Williams, J., Thorne, P.D., Williams, M.E., Amoudry, L.O."
+  authors: "Wei, X., Brown, J.M., Williams, J., Thorne, P.D., **Williams, M.E.**, Amoudry, L.O."
   title: "Importance of storm propagation speed to coastal flood hazard induced by offshore storms"
   journal: "Ocean Modelling"
   volume: "143"
@@ -169,7 +169,7 @@
 
 - year: 2019
   status: published
-  authors: "Thompson, C.E.L., Williams, M.E., Amoudry, L., Hull, T., Reynolds, S., Panton, A., Fones, G.R."
+  authors: "Thompson, C.E.L., **Williams, M.E.**, Amoudry, L., Hull, T., Reynolds, S., Panton, A., Fones, G.R."
   title: "Benthic controls of resuspension in UK shelf seas: implications for resuspension frequency"
   journal: "Continental Shelf Research"
   volume: "185"
@@ -178,7 +178,7 @@
 
 - year: 2019
   status: published
-  authors: "Williams, M.E., Amoudry, L.O., Brown, J.M., Thompson, C.E.L."
+  authors: "**Williams, M.E.**, Amoudry, L.O., Brown, J.M., Thompson, C.E.L."
   title: "Fine particle retention and deposition in regions of cyclonic tidal current rotation"
   journal: "Marine Geology"
   volume: "410"
@@ -187,7 +187,7 @@
 
 - year: 2017
   status: published
-  authors: "Thompson, C.E.L., Silburn, B., Williams, M.E., Hull, T., Sivyer, D., Amoudry, L.O., Widdicombe, S., Ingels, J., Carnovale, G., McNeill, C.L., Hale, R., Laguionie Marchais, C., Hicks, N., Smith, H.E.K., Klar, J.K., Hiddink, J.G., Kowalik, J., Kitidis, V., Reynolds, S., Woodward, E.M.S., Tait, K., Homoky, W., Kröger, S., Bolam, S., Godbold, J.A., Aldridge, J., Mayor, D.J., Benoist, N.M.A., Bett, B.J., Morris, K.J., Parker, E.R., Ruhl, H.A., Statham, P.J., Solan, M."
+  authors: "Thompson, C.E.L., Silburn, B., **Williams, M.E.**, Hull, T., Sivyer, D., Amoudry, L.O., Widdicombe, S., Ingels, J., Carnovale, G., McNeill, C.L., Hale, R., Laguionie Marchais, C., Hicks, N., Smith, H.E.K., Klar, J.K., Hiddink, J.G., Kowalik, J., Kitidis, V., Reynolds, S., Woodward, E.M.S., Tait, K., Homoky, W., Kröger, S., Bolam, S., Godbold, J.A., Aldridge, J., Mayor, D.J., Benoist, N.M.A., Bett, B.J., Morris, K.J., Parker, E.R., Ruhl, H.A., Statham, P.J., Solan, M."
   title: "An approach for the identification of exemplar sites for scaling up targeted field observations of benthic biogeochemistry in heterogeneous environments"
   journal: "Biogeochemistry"
   volume: "135(1-2)"
@@ -196,7 +196,7 @@
 
 - year: 2016
   status: published
-  authors: "Williams, M.E., Stacey, M.T."
+  authors: "**Williams, M.E.**, Stacey, M.T."
   title: "Tidally discontinuous ocean forcing in bar-built estuaries: The interaction of tides, infragravity motions, and frictional control"
   journal: "Journal of Geophysical Research: Oceans"
   volume: "121"
