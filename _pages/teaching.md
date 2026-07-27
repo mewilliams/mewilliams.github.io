@@ -8,7 +8,8 @@ title: "Teaching"
 ##### Pontificia Universidad Católica de Chile
 
 - ICH 1104: Mecánica de Fluidos
-- BIO 327M: Oceanografía Física Biológica
+- BIO 327M: Oceanografía Físico-Biológica
+- ICH 3432: Ritmos de la Costa: Explorando la Dinámica Costera
 
 
 
