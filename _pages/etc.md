@@ -44,7 +44,10 @@ https://www.codecademy.com/learn/learn-r
 Programming, Data Analysis, Scientific Computing: Some in Spanish:
 https://datacarpentry.org/lessons/
 https://datacarpentry.org/semester-biology/
+https://datacarpentry.org/R-ecology-lesson/
 https://software-carpentry.org/lessons/
+https://swcarpentry.github.io/r-novice-inflammation/
+https://swcarpentry.github.io/r-novice-gapminder-es/
 
 https://rladies.org/ 
 https://www.meetup.com/es/rladies-scl/
