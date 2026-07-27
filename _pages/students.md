@@ -1,17 +1,48 @@
+## Current Students
+
+{% for s in site.data.students.current %}
+
+### {{ s.name }}
+
+**{{ s.role }}**  
+{{ s.program }}, {{ s.institution }}
+
+**Research Topic:** {{ s.thesis }}
+
+Started: {{ s.start }}
+
+{% endfor %}
+
 ---
-permalink: /students/
-title: "Students"
+
+## Former Postdoctoral Scholars
+
+{% for s in site.data.students.former_postdocs %}
+
+### {{ s.name }}
+
+Postdoctoral Scholar  
+{{ s.institution }}
+
+Funding: {{ s.funding }}
+
+{{ s.start }}–{{ s.end }}
+
+{% endfor %}
+
 ---
 
+## Graduated Students
 
+{% assign grads = site.data.students.graduated | sort: "year" | reverse %}
 
+{% for s in grads %}
 
-##### Undergraduate student theses:
+### {{ s.name }} ({{ s.year }})
 
-Sebastián Gajardo - [Construccion y Uso de Instrumentos para Mediciones Costeras](https://repositorio.usm.cl/handle/11673/53354)
+**{{ s.degree }}**  
+{{ s.program }}, {{ s.institution }}
 
-Bruno Aravena - [Cuantificación del Campo de Velocidades Superficiales mediante Imágenes Tomadas con Drones en el Estuario del Río Maipo](https://repositorio.usm.cl/handle/11673/55983)
+**Thesis:** {{ s.thesis }}
 
-Fernanda Cortes - Estudio De La Variación Del Área De Los Lagos Araucanos Caburgua, Colico Y Villarrica Para El Periodo 1984-2020
-
-Felipe Moreno - Caracterización De La Interacción De La Pluma Del Río Maipo Con La Zona De Rompiente De Oleaje Mediante Análisis De Imágenes Satelitales
+{% endfor %}

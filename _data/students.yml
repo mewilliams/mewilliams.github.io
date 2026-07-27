@@ -1,0 +1,67 @@
+current:
+
+  - name: "Rodolfo Gómez"
+    role: "PhD Student"
+    program: "Civil Engineering"
+    institution: "Pontificia Universidad Católica de Chile"
+    start: 2024
+    thesis: "Watershed-oceanic forcing in semi-arid lagoonal estuaries"
+
+former_postdocs:
+
+  - name: "Lino Yovan"
+    institution: "Pontificia Universidad Católica de Chile"
+    funding: "ANID Anillo SACBAD"
+    start: 2024
+    end: 2025
+
+graduated:
+
+  - name: "Drazen Kusjanovic"
+    degree: "MSc"
+    program: "Ingeniería Civil"
+    institution: "Universidad Técnica Federico Santa María"
+    year: 2025
+    thesis: "Evolución Morfológica de la Desembocadura de Estuarios Intermitentes en la Zona Central de Chile y su Relación con el Caudal de Río Aportante"
+
+  - name: "Dhannai Sepúlveda"
+    degree: "MSc"
+    program: "Ingeniería Civil"
+    institution: "Universidad Técnica Federico Santa María"
+    year: 2024
+    thesis: "Efectos de Viento en Estuarios Pequeños y Estratificados"
+
+  - name: "Martina Monasterio"
+    degree: "Undergraduate Thesis"
+    program: "Ingeniería Civil"
+    institution: "Universidad Técnica Federico Santa María"
+    year: 2024
+    thesis: "Caracterización del potencial de energía mareomotriz en un canal mareal en el sur de Chile"
+
+  - name: "Felipe Moreno"
+    degree: "Undergraduate Thesis"
+    program: "Ingeniería Civil"
+    institution: "Universidad Técnica Federico Santa María"
+    year: 2023
+    thesis: "Caracterización de la Interacción de la Pluma del Río Maipo con la Zona de Rompiente de Oleaje Mediante Análisis de Imágenes Satelitales"
+
+  - name: "Sebastián Gajardo"
+    degree: "Undergraduate Thesis"
+    program: "Ingeniería Civil"
+    institution: "Universidad Técnica Federico Santa María"
+    year: 2022
+    thesis: "Construcción y Uso de Instrumentos para Mediciones Costeras"
+
+  - name: "Fernanda Cortés"
+    degree: "Undergraduate Thesis"
+    program: "Ingeniería Civil"
+    institution: "Universidad Técnica Federico Santa María"
+    year: 2022
+    thesis: "Estudio de la Variación de los lagos araucanos Caburga, Colico y Villarrica para el Periodo 1984-2020"
+
+  - name: "Bruno Aravena"
+    degree: "Undergraduate Thesis"
+    program: "Ingeniería Civil"
+    institution: "Universidad Técnica Federico Santa María"
+    year: 2022
+    thesis: "Cuantificación del Campo de Velocidades Superficiales Mediante Imágenes Tomadas con Drones en el Estuario del Río Maipo"
