@@ -1,14 +1,14 @@
-- year: 2026
-  status: under-review
-  authors: "Vicuña, S., Bravo, V., Gómez, R., Vargas, J., Meza, F., Gutiérrez, A.G., Gaxiola, A., Williams, M.E., Melo, O., Leray, S., González, D., Zúñiga, P."
-  title: "Assessing the complex nature of climate change risks in semi-arid coastal basins"
-  journal: "Regional Environmental Change"
+# - year: 2026
+#   status: under-review
+#   authors: "Vicuña, S., Bravo, V., Gómez, R., Vargas, J., Meza, F., Gutiérrez, A.G., Gaxiola, A., Williams, M.E., Melo, O., Leray, S., González, D., Zúñiga, P."
+#   title: "Assessing the complex nature of climate change risks in semi-arid coastal basins"
+#   journal: "Regional Environmental Change"
 
-- year: 2026
-  status: under-review
-  authors: "Reynolds, S.E., Thompson, C., Homoky, W.B., Williams, M.E., Amoudry, L.O., Klar, J., Kitidis, V., Silburn, B., Sivyer, D., Chapman-Greig, L., Woodward, M., Statham, P.J., Fones, G.R."
-  title: "Seasonal biogeochemical cycling of permeable sediments in a temperate shelf sea environment"
-  journal: "Biogeochemistry"
+# - year: 2026
+#   status: under-review
+#   authors: "Reynolds, S.E., Thompson, C., Homoky, W.B., Williams, M.E., Amoudry, L.O., Klar, J., Kitidis, V., Silburn, B., Sivyer, D., Chapman-Greig, L., Woodward, M., Statham, P.J., Fones, G.R."
+#   title: "Seasonal biogeochemical cycling of permeable sediments in a temperate shelf sea environment"
+#   journal: "Biogeochemistry"
 
 - year: 2026
   status: published
