@@ -1,4 +1,5 @@
 ---
+layout: single
 permalink: /publications/
 title: "Publications"
 ---
@@ -20,13 +21,9 @@ title: "Publications"
 
 **{{ pub.authors }}** ({{ pub.year }}).  
 {{ pub.title }}.  
-*{{ pub.journal }}*
-{% if pub.volume %}, {{ pub.volume }}{% endif %}
-{% if pub.pages %}, {{ pub.pages }}{% endif %}.  
+*{{ pub.journal }}*{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}.  
 {% if pub.doi %}
-<a ps://doi.org/{{ pub.doi }}
-doi:{{ pub.doi }}
-</a>
+DOI: https://doi.org/{{ pub.doi }}
 {% endif %}
 
 <br>
