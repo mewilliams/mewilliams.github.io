@@ -12,6 +12,8 @@
 
 - year: 2026
   status: published
+  student_authors:
+    - "Gutiérrez, K."
   authors: "Gutiérrez, K., Williams, M.E., Correa, S., Winckler, P., Escauriaza, C."
   title: "Modeling wave-induced sediment transport and morphodynamic response in a bar-built estuary"
   journal: "Coastal Engineering"
@@ -83,6 +85,8 @@
 
 - year: 2024
   status: published
+  student_authors:
+    - "Roco, A."
   authors: "Roco, A., Flores, R.P., Williams, M.E., Saldías, G.S."
   title: "Observations of river-wave interactions at a small-scale river mouth"
   journal: "Coastal Engineering"
@@ -128,6 +132,8 @@
 
 - year: 2021
   status: published
+  student_authors:
+    - "Guerrero, Q."
   authors: "Guerrero, Q., Williams, M.E., Guillén, J., Lichtman, I.D., Thorne, P.D., Amoudry, L.O."
   title: "Small-scale bedforms and associated sediment transport in a macro-tidal lower shoreface"
   journal: "Continental Shelf Research"
