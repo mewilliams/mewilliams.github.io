@@ -23,7 +23,7 @@ title: "Publications"
 {{ pub.title }}.  
 *{{ pub.journal }}*{% if pub.volume %}, {{ pub.volume }}{% endif %}{% if pub.pages %}, {{ pub.pages }}{% endif %}.  
 {% if pub.doi %}
-DOI: https://doi.org/{{ pub.doi }}
+DOI: <a href="https://doiub.doi }}>
 {% endif %}
 
 <br>
