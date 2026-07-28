@@ -1,3 +1,8 @@
+---
+layout: single
+permalink: /etc/
+title: "Other Resources"
+---
 
 ## Oceanographic and Earth Science Data in Chile
 
