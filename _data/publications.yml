@@ -10,6 +10,19 @@
 #   title: "Seasonal biogeochemical cycling of permeable sediments in a temperate shelf sea environment"
 #   journal: "Biogeochemistry"
 
+
+- year: 2026
+  status: published
+  student_authors:
+    - "Gómez, R."
+    - "Pedro Zúñiga"
+  authors: "Vicuña, S., Gómez, R., Bravo, V., Vargas, J., Gutiérrez, Á.G., **Williams, M.E.**, Gaxiola, A., Leray, S., González, D., Zúñiga, P., Mesa, F."
+  title: "Assessing the complex nature of climate change risks in semi‑arid coastal basins"
+  journal: "Regional Environmental Change"
+  volume: "26"
+  pages: "161"
+  doi: "10.1007/s10113-026-02642-7"
+
 - year: 2026
   status: published
   student_authors:
